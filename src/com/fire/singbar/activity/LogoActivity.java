@@ -9,7 +9,7 @@ import com.fire.singbar.utils.AbstractActivity;
 
 public class LogoActivity extends AbstractActivity {
 	
-	private final int delayMillis = 3000;
+	private final int delayMillis = 2000;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
